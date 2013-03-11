@@ -2,9 +2,13 @@
 bin-debug/
 bin-release/
 starling/doc/html/
+out/
 
 # Project property files
 .settings/
+*.ipr
+*.iws
+*.iml
 
 # OS X folders
 .DS_Store
